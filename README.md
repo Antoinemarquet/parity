@@ -1,5 +1,5 @@
 # parity
-simulations of a harmonic oscillator with the Hamiltonian
+Simulations of a harmonic oscillator with the Hamiltonian
 
 <img src="/tex/ddee3f96acd4ddb7337356406d32bc99.svg?invert_in_darkmode&sanitize=true" align=middle width=223.77842354999999pt height=27.91243950000002pt/>
 
