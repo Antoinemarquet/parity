@@ -1,4 +1,4 @@
 # parity
-harmonic oscillator with parity-type perturbation
+simulations of a harmonic oscillator with the Hamiltonian
 
-<img src="/tex/65cd3aa0934f3ec24b1c84afc6f9a330.svg?invert_in_darkmode&sanitize=true" align=middle width=45.79891964999998pt height=22.648391699999998pt/>
+<img src="/tex/46a59fd456262a22d3658598999daa8b.svg?invert_in_darkmode&sanitize=true" align=middle width=231.15288239999995pt height=27.91243950000002pt/>
