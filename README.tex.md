@@ -1,5 +1,5 @@
 # parity
-simulations of a harmonic oscillator with the Hamiltonian
+Simulations of a harmonic oscillator with the Hamiltonian
 
 $H/\hbar = \omega_0 a^\dagger a - \lambda \cos[\theta (a + a^\dagger)]$
 
